@@ -1,6 +1,7 @@
 # Customer Churn Prediction Analytics System
 
 ## Overview
+link https://raghav-customer-churn-ai.streamlit.app/
 
 This project is a complete end-to-end Machine Learning and Business Analytics solution that predicts customer churn using the IBM Telco Customer Churn Dataset.
 
@@ -283,3 +284,24 @@ Random Forest:
 Data Analytics & Machine Learning Project
 
 Built using Python, SQL, Machine Learning and Streamlit.
+
+<img width="1920" height="1080" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/b97fc3ba-f471-4cb9-9223-7eedc065023b" />
+
+<img width="1920" height="1080" alt="Screenshot (2)" src="https://github.com/user-attachments/assets/484bba4c-c53f-4887-8a9c-764527e3d0a3" />
+
+<img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/a5be70a1-3acc-4065-8c20-6e62d097e61f" />
+
+<img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/3dcd5d78-ffa5-427b-9650-f5c93b913e61" />
+
+<img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/58cd87f9-d53d-4868-8dc3-a9474991564b" />
+
+<img width="1920" height="1080" alt="Screenshot (6)" src="https://github.com/user-attachments/assets/5be96b7e-94ee-4287-94a7-49d43331d47f" />
+
+<img width="1920" height="1080" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/4f88e3d6-0440-4644-94ba-79699f475261" />
+
+
+
+
+
+
+
